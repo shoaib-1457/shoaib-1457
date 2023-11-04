@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sheikh Mohd Shoaib</h1>
 <h3 align="center">I am 3rd Year Engineering student</h3>
-<img align = 'right'>src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="300" alt="animated hello" </img>
+<img align = 'right'src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="300" alt="animated hello" </img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaib-1457&label=Profile%20views&color=0e75b6&style=flat" alt="shoaib-1457" /> </p>
 <img src = "<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">"  align = "right"> </img>

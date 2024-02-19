@@ -52,5 +52,4 @@
 
 
 [![An image of @shoaib1457's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shoaib1457)](https://holopin.io/@shoaib1457)
-<p align='center'><img src='https://raw.githubusercontent.com/shoaib-1457/shoaib-1457/output/github-snake-dark.svg'></p>
 

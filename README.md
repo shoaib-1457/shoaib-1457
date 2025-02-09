@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sheikh Mohd Shoaib</h1>
-<h3 align="center">I am 3rd Year Engineering student</h3>
+<h3 align="center">I am an Engineering student</h3>
 <!-- <img align = 'right'src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="300" alt="animated hello" </img>
  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaib-1457&label=Profile%20views&color=0e75b6&style=flat" alt="shoaib-1457" /> </p>
